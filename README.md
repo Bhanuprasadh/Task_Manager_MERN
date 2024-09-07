@@ -48,12 +48,6 @@ PORT=your_port_number
 
 ![image](https://github.com/user-attachments/assets/10ecf009-1620-45d7-a1e7-328d1fd22a86)
 
-![Screenshot (405)](https://github.com/user-attachments/assets/117e8f26-e67c-4f73-8281-fd9691aa81b2)
-
-![Screenshot (406)](https://github.com/user-attachments/assets/1ab04e51-37ab-45a1-a734-a7ac82dc4cdf)
-
 ![Screenshot (407)](https://github.com/user-attachments/assets/89e15a70-7d55-4e18-a44c-bb286c31b04d)
-
-![Screenshot (408)](https://github.com/user-attachments/assets/8317f593-0ee1-4868-bcdc-e6ca47bb3b29)
 
 ![Screenshot (409)](https://github.com/user-attachments/assets/61842784-44d7-45d3-b1e6-8299e8259e26)
